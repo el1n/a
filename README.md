@@ -1,12 +1,13 @@
 Troubleshooting
 -
----
+
+####aaaa
 ```
 /overlay/usr/bin/vpnserver: can't resolve symbol 'SHA' in lib '/overlay/usr/bin/vpnserver'.
 ```
 You need install the libopenssl compiled for the SoftEther VPN.
 
----
+####aaaa
 ```
 -- Alert: SoftEther VPN Kernel --
 String Library Init Failed.
@@ -20,7 +21,7 @@ e.g.:
 env LANG=en_US.UTF-8 /overlay/usr/bin/vpnserver start
 ```
 
----
+####aaaa
 ```
 Installing softethervpncmd (4.10-9505) to root...
 Collected errors:
