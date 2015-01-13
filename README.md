@@ -37,3 +37,6 @@ e.g.:
 ```
 opkg install --force-overwrite http://b.mikomoe.jp/download/1412375380/attach/softethervpnserver_4.10-9505_ar71xx.ipk
 ```
+
+*force*
+**force**
