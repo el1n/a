@@ -43,7 +43,7 @@ opkg install --force-overwrite http://b.mikomoe.jp/download/1412375380/attach/so
 
 SoftEther VPN for OpenWrt
 =
-Your router is if ar71xx or brcm47xx, You do not need build steps. 
+Your router is if ar71xx or brcm47xx, You do not need build steps.  
 You can get binary package from http://b.mikomoe.jp/.
 
 If need compile for OpenWrt 12.09, See old [README.MD](https://github.com/el1n/OpenWRT-package-softether/blob/7dc4c4ce19da9aa7dc2330e2dbbdc4d3e4dd4fcc/README.md).
